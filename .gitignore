@@ -12,9 +12,7 @@ build/
 out/
 bin/
 
-# Локовые конфигурационные файлы
-*.properties
-*.log
+
 
 # Файлы IDE
 .idea/
